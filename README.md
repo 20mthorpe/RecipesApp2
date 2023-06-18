@@ -15,8 +15,8 @@ The app was programmed in Swift.
 
 # Useful Websites
 
-* [DesignCode](https://www.youtube.com/watch?v=uSanD_pFwis)
-* [DesignCode](https://www.youtube.com/watch?v=uqkUumqFiF8)
+* [DesignCode pt1](https://www.youtube.com/watch?v=uSanD_pFwis)
+* [DesignCode pt2](https://www.youtube.com/watch?v=uqkUumqFiF8)
 
 # Future Work
 
